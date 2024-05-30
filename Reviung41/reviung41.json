@@ -67,8 +67,8 @@
     [
       "KC_TRNS",
       "KC_NO",
-      "KC_MUTE",
-      "KC_VOLD",
+      "KC_NLCK",
+      "KC_NO",
       "KC_VOLD",
       "KC_VOLU",
       "KC_TRNS",
